@@ -1,6 +1,7 @@
 # Amplitude
 
--Descrizione del Progetto
+Descrizione del Progetto
+
 Amplitude è un database SQL progettato per supportare un e-commerce di strumenti musicali. Il sistema gestisce utenti, ordini e recensioni, garantendo un'organizzazione efficiente dei dati e l'integrità delle transazioni.
 Questo progetto è stato sviluppato come parte dell'esame di "Basi di Dati" per approfondire la modellazione dei dati e l'ottimizzazione delle query SQL.
 
